@@ -1,4 +1,4 @@
-class Block{
+class Block{    //by zonetwelve
   int x, y;
   int mn = 4;
   int size;
